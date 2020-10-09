@@ -27,10 +27,19 @@
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Features</a>
+                    <a class="nav-link" href="#">Team</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Pricing</a>
+                    <a class="nav-link" href="#">Research</a>
+                </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Publication</a>
+                </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Vacancies</a>
+                </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Pictures</a>
                 </li>
             </ul>
             </span>
@@ -116,7 +125,7 @@
 
                     <!-- List Group -->
                     <div class="list-group">
-                        <a href="#" class="list-group-item list-group-item-action active">
+                        <a href="#" class="list-group-item list-group-item-action">
                             <div class="d-flex w-100 justify-content-between">
                                 <h5 class="mb-1">List group item heading</h5>
                                 <small>3 days ago</small>
